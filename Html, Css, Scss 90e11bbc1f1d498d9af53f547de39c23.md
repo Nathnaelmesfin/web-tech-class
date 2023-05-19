@@ -105,7 +105,7 @@ HTML links are defined with `<a>` tags:
 # Example
 
 ```jsx
-<a href="https://www.w3schools.com">This is a link</a>
+<a href="https://www.nathnaelmesfin.com">This is a link</a>
 ```
 
 The link's destination is specified in the `href` attribute.
@@ -119,7 +119,7 @@ The source file (`src`), alternative text (`alt`), `width`, and `height` are 
 # Example
 
 ```jsx
-<img src="img_w3schools.jpg" alt="W3Schools" style="width:120px;height:150px"
+<img src="nathnaelmesfin.jpg" alt="nathnaelmesfin" style="width:120px;height:150px"
 ```
 
 # HTML Buttons
