@@ -32,7 +32,7 @@ console.log('Welcome', 'to', 30, 'Days', 'Of', 'JavaScript')
 
 As you can see from the snippet code above, *`console.log()`* can take multiple arguments.
 
-Congratulations! You wrote your first JavaScript code using *`console.log()`*.
+
 
 ### Comments
 
